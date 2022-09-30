@@ -1,0 +1,10 @@
+body
+{
+	background: rgb(255, 105, 105);
+}
+
+#nomeJogador1, #nomeJogador2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
